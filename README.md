@@ -1,6 +1,6 @@
 # Specificity-Example
 
-Click to preview: 
+Click to preview: https://htmlpreview.github.io/?https://github.com/hsjeevan/Specificity-Example/blob/master/specificity.html
 
 #Notes
 
